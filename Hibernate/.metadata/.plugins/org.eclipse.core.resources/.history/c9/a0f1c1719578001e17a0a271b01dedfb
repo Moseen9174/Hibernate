@@ -1,0 +1,32 @@
+package in.co.rays.test;
+
+import in.co.rays.Dto.UserDto;
+import in.co.rays.Model.UserModel;
+
+public class testUser {
+
+	public static void main(String[] args) {
+
+		testadd();
+		testupdate();
+	}
+
+	private static void testupdate() {
+		UserDto dto = new UserDto();
+
+		UserModel model = new UserModel();
+		
+		model.add1(dto);
+	}
+
+	private static void testadd() {
+
+		UserDto dto = new UserDto();
+
+		UserModel model = new UserModel();
+		
+		model.add1(dto);
+
+	}
+
+}

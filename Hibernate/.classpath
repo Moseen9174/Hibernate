@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="hiber/src/main/java"/>
+	<classpathentry kind="src" path="MavenWithHibernate/src/main/java"/>
+	<classpathentry kind="src" path="TestHiber/src/main/java"/>
+	<classpathentry kind="src" path="TestHibernate/src/main/java"/>
+	<classpathentry kind="output" path="MavenWithHibernate/target/classes"/>
+</classpath>

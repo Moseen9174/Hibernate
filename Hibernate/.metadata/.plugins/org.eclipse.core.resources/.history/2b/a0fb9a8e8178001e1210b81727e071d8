@@ -1,0 +1,21 @@
+package in.co.rays.test;
+
+import in.co.rays.Dto.UserDto;
+import in.co.rays.Model.UserModel;
+
+public class testUser {
+	
+	public static void main(String[] args) {
+		
+		UserDto dto=new UserDto();
+		
+		dto.setFirstName("Moseen");
+		dto.setLastName("khan");
+		dto.setLoginId("Moseen@gmail.com");
+		dto.setPassword("909090");
+		
+		UserModel model=new UserModel();
+		model.add(dto);
+	}
+
+}

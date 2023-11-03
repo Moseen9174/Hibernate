@@ -1,0 +1,11 @@
+INDEX VERSION 1.131
+C:\Rays\workspace\Hibernate\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\630248454.index
+\MavenWithHibernate\src\main\java
+C:\Rays\workspace\Hibernate\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3382941218.index
+\in.co.rays.hiber\src\main\resources
+C:\Rays\workspace\Hibernate\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\4087894246.index
+\TestHibernate\src\main\resources
+C:\Rays\workspace\Hibernate\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2520079541.index
+\TestHiber\src\main\resources
+C:\Rays\workspace\Hibernate\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2127029831.index
+\hiber

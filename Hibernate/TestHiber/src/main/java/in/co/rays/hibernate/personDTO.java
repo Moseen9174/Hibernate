@@ -1,0 +1,54 @@
+package in.co.rays.hibernate;
+
+public class personDTO {
+
+	private int id;
+	private String name;
+	private String Address;
+	private String phone;
+
+	public int getId() {
+		return id;
+	}
+
+	public void setId(int id) {
+		this.id = id;
+	}
+
+	public String getName() {
+		return name;
+	}
+
+	public void setName(String name) {
+		this.name = name;
+	}
+
+	public String getAddress() {
+		return Address;
+	}
+
+	public void setAddress(String address) {
+		Address = address;
+	}
+
+	public String getPhone() {
+		return phone;
+	}
+
+	public void setPhone(String phone) {
+		this.phone = phone;
+	}
+
+	public personDTO(int id, String name, String address, String phone) {
+		super();
+		this.id = id;
+		this.name = name;
+		Address = address;
+		this.phone = phone;
+	}
+
+	public personDTO() {
+		super();
+		// TODO Auto-generated constructor stub
+	}
+}

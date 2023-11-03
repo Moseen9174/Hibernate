@@ -1,0 +1,5 @@
+package in.co.rays.Dto;
+
+public class UserDto {
+
+}
